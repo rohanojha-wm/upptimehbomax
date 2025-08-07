@@ -6,7 +6,7 @@ sites:
   - name: HomePageMax
     url: https://www.hbomax.com
   - name: HomePageDPlus
-    url: https://www.discoveryplus.com
+    url: https://www.discoveryplus.com 
  
 
 status-website:
